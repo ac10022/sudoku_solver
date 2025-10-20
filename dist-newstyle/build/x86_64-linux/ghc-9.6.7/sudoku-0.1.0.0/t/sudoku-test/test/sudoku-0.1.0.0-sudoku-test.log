@@ -1,0 +1,3 @@
+Test suite sudoku-test: RUNNING...
+Test suite sudoku-test: PASS
+Test suite logged to: /home/lucam/sudoku/dist-newstyle/build/x86_64-linux/ghc-9.6.7/sudoku-0.1.0.0/t/sudoku-test/test/sudoku-0.1.0.0-sudoku-test.log
